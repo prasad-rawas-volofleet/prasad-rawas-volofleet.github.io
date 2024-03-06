@@ -1,0 +1,45 @@
+{
+  "server_url": "guard.vfrc.io",
+  "user_id": "surveymumbai",
+  "hash": "Test54321",
+  "location_id": 8101,
+  "action_list_id": 14641,
+  "actions": [
+    {
+      "action_id": 295141,
+      "name": "Driver Email ID"
+    },
+    {
+      "action_id": 294971,
+      "name": "Fault"
+    },
+    {
+      "action_id": 294981,
+      "name": "Injury"
+    },
+    {
+      "action_id": 294991,
+      "name": "Vehicle damage #1"
+    },
+    {
+      "action_id": 295001,
+      "name": "Assistance needed"
+    },
+    {
+      "action_id": 295011,
+      "name": "3rd party details"
+    },
+    {
+      "action_id": 295031,
+      "name": "What happened"
+    },
+    {
+      "action_id": 295041,
+      "name": "Vehicle damage #2"
+    },
+    {
+      "action_id": 295131,
+      "name": "Time of collision"
+    }
+  ]
+}
