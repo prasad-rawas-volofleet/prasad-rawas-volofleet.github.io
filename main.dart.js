@@ -94459,7 +94459,7 @@ p.j(0)
 s=$.as.H$.f.c
 if(s!=null)s.i3()
 r=a.a
-s=B.d.n(r==null?"":r,"/")
+s=(r==null?"":r)==="/"
 if(s&&p.gcv(p)){s=t.H
 if(p.h(0,"lid")!=null)return A.axr(A.ax9(p.h(0,"lid")),a,s)
 else{$.d5()
