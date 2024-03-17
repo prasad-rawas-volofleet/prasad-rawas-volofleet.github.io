@@ -1,6 +1,6 @@
 {
-    "name": "volox_driver",
-    "short_name": "volox_driver",
+    "name": "Vehicle collision report",
+    "short_name": "Vehicle collision report",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

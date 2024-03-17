@@ -1,44 +1,45 @@
 {
+  "app_name": "Vehicle collision report",
   "server_url": "guard.vfrc.io",
   "user_id": "surveymumbai",
-  "hash": "Test54321",
+  "hash": "2594efe175dd60ac4b1defa8e3c78ef0965ac3f6",
   "location_id": 8101,
-  "action_list_id": 14641,
-  "actions": [
+  "task_list_id": 14641,
+  "tasks": [
     {
-      "action_id": 295141,
+      "id": "295141",
       "name": "Driver Email ID"
     },
     {
-      "action_id": 294971,
+      "id": "294971",
       "name": "Fault"
     },
     {
-      "action_id": 294981,
+      "id": "294981",
       "name": "Injury"
     },
     {
-      "action_id": 294991,
+      "id": "294991",
       "name": "Vehicle damage #1"
     },
     {
-      "action_id": 295001,
+      "id": "295001",
       "name": "Assistance needed"
     },
     {
-      "action_id": 295011,
+      "id": "295011",
       "name": "3rd party details"
     },
     {
-      "action_id": 295031,
+      "id": "295031",
       "name": "What happened"
     },
     {
-      "action_id": 295041,
+      "id": "295041",
       "name": "Vehicle damage #2"
     },
     {
-      "action_id": 295131,
+      "id": "295131",
       "name": "Time of collision"
     }
   ]
