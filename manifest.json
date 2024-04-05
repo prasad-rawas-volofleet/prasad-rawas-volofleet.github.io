@@ -1,11 +1,11 @@
 {
-    "name": "Vehicle collision report",
-    "short_name": "Vehicle collision report",
+    "name": "vehicle_collision_form",
+    "short_name": "vehicle_collision_form",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A custom web experience designed for mobile users to report an incident involving vehicle collisions.",
+    "description": "A custom web experience designed for mobile users.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
